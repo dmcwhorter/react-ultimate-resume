@@ -1,0 +1,331 @@
+{
+    "basics": {
+        "email": "david@mcwhorter.io",
+        "label": "Software Engineer",
+        "location": {
+            "address": "2607 Willard Drive",
+            "city": "Charlottesville",
+            "countryCode": "US",
+            "postalCode": "VA 94115",
+            "region": "Virginia"
+        },
+        "name": "David McWhorter",
+        "phone": "(434) 227-2551",
+        "picture": "Face.jpg",
+        "profiles": [
+            {
+                "network": "GitHub",
+                "url": "https://github.com/dmcwhorter",
+                "username": "dmcwhorter"
+            },
+            {
+                "network": "LinkedIn",
+                "url": "https://www.linkedin.com/in/davidmcwhorter05",
+                "username": "davidmcwhorter05"
+            },
+            {
+                "network": "Twitter",
+                "url": "https://twitter.com/DavidMcWhorter",
+                "username": "DavidMcWhorter"
+            }
+        ],
+        "summary": "Passionate creator of software that harnesses data to heal the world.",
+        "website": "https://mcwhorter.io"
+    },
+    "education": [
+        {
+            "area": "Computer Engineering and Computer Science",
+            "endDate": "2005-05-20",
+            "gpa": "4.0",
+            "institution": "University of Virginia",
+            "startDate": "2001-08-20",
+            "studyType": "Bachelor's Degree"
+        },
+        {
+            "area": "",
+            "courses": ["DB1101 - Basic SQL"],
+            "endDate": "",
+            "gpa": "4.0",
+            "institution": "Universit\u00e9 d'artois",
+            "startDate": "2011-01-01",
+            "studyType": ""
+        }
+    ],
+    "interests": [
+        {
+            "gifUrl": "https://media.giphy.com/media/kEKcOWl8RMLde/giphy.gif",
+            "name": "Running"
+        },
+        {
+            "gifUrl": "https://i.imgur.com/wmI9cWB.gif",
+            "name": "Electrical Wiring"
+        }
+    ],
+    "languages": [
+        {
+            "fluency": "Native speaker",
+            "language": "English",
+            "value": 100
+        },
+        {
+            "fluency": "Basic conversation",
+            "language": "Chinese",
+            "value": 15
+        }
+    ],
+    "projects": [
+        {
+            "description": "GeoMesa is a spatio-temporal index for distributed databases.",
+            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
+            "images": [
+                {
+                    "url": "https://www.geomesa.org/img/geomesa.png"
+                }
+            ],
+            "index": 1,
+            "link": "https://github.com/locationtech/geomesa/commits?author=dmcwhorter",
+            "name": "GeoMesa Contributions"
+        },
+        {
+            "description": "Apache Spark is a distributed computing platform.",
+            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b13",
+            "images": [
+                {
+                    "url": "https://spark.apache.org/docs/latest/img/spark-logo-hd.png"
+                }
+            ],
+            "index": 2,
+            "link": "https://github.com/apache/spark/commits?author=dmcwhorter",
+            "name": "Spark Contributions"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Undergraduate Thesis",
+            "publisher": "University of Virginia",
+            "releaseDate": "2005-03-29",
+            "summary": "Power Consumption Characterization of a Graphics Processing Unit",
+            "website": "https://www.mcwhorter.io/media/DavidMcWhorterThesis05.pdf"
+        }
+    ],
+    "resumeCustomization": {
+        "cardsOrder": [
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        },
+        "imageHeader": {
+            "alt": "Default Banner",
+            "url": "Background.jpg"
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "100": "#d1d6df",
+                    "200": "#a4adbf",
+                    "300": "#76849f",
+                    "400": "#495b7f",
+                    "50": "#e8ebef",
+                    "500": "#1b325f",
+                    "600": "#16284c",
+                    "700": "#101e39",
+                    "800": "#0b1426",
+                    "900": "#050a13",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "100": "#ebf3fa",
+                    "200": "#d7e7f4",
+                    "300": "#c4dcef",
+                    "400": "#b0d0e9",
+                    "50": "#f5f9fc",
+                    "500": "#9cc4e4",
+                    "600": "#7d9db6",
+                    "700": "#5e7689",
+                    "800": "#3e4e5b",
+                    "900": "#1f272e",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "100": "#fbfcfe",
+                    "200": "#f6fafd",
+                    "300": "#f2f7fb",
+                    "400": "#edf5fa",
+                    "50": "#fdfefe",
+                    "500": "#e9f2f9",
+                    "600": "#bac2c7",
+                    "700": "#8c9195",
+                    "800": "#5d6164",
+                    "900": "#2f3032",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        }
+    },
+    "skills": [
+        {
+            "id": "c406f6a8-6897-40eb-a30e-842ff68ae322",
+            "index": 0,
+            "name": "Java",
+            "value": 100
+        },
+        {
+            "id": "433653e1-71e4-4ddf-949b-682d6989a1d5",
+            "index": 7,
+            "name": "Spark",
+            "value": 95
+        },
+        {
+            "id": "7b8007d1-3ea9-4bfa-abdd-96ed93f466f1",
+            "index": 1,
+            "name": "Scala",
+            "value": 90
+        },
+        {
+            "id": "ccccfe66-9bff-45db-a4a4-4dc159e0807f",
+            "index": 5,
+            "name": "Git",
+            "value": 90
+        },
+        {
+            "id": "851d8f83-3add-478d-b347-c05568985c8c",
+            "index": 9,
+            "name": "Hadoop",
+            "value": 80
+        },
+        {
+            "id": "9813a525-94e2-467e-b5e0-7b51663ff0c3",
+            "index": 6,
+            "name": "Bash",
+            "value": 70
+        },
+        {
+            "id": "6c4b4c7d-eb71-4223-b579-631ca36ab5e6",
+            "index": 2,
+            "name": "Typescript",
+            "value": 30
+        },
+        {
+            "id": "695fde03-78bd-4810-974f-2baf76812a3b",
+            "index": 3,
+            "name": "Python",
+            "value": 25
+        },
+        {
+            "id": "e57727e1-ca26-4f2b-a3a7-d3f024ebaae8",
+            "index": 4,
+            "name": "R",
+            "value": 25
+        },
+        {
+            "id": "2a3684d2-bf8a-4f13-8e00-3aec1368d4bc",
+            "index": 11,
+            "name": "Docker",
+            "value": 20
+        },
+        {
+            "id": "5742929d-5aaa-4153-a8b2-17a03d724861",
+            "index": 8,
+            "name": "React",
+            "value": 20
+        },
+        {
+            "id": "6fe519c7-c781-4d11-89ea-922377754055",
+            "index": 10,
+            "name": "K8S",
+            "value": 15
+        }
+    ],
+    "specific": {
+        "basics": {
+            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends.",
+            "visaSponsorship": true
+        },
+        "dreamJob": {
+            "locations": [
+                {
+                    "name": "Charlottesville, VA"
+                }
+            ],
+            "remoteFrequency": "regularly"
+        },
+        "education": {
+            "studiesLevel": "Bachelor"
+        },
+        "interestedBy": "Rust, Genomics Data, Apache Arrow, ReScript",
+        "work": {
+            "codingReason": "I am motivated by using the plethora of data available today in novel ways to heal the ways that the world is broken.",
+            "codingYears": 15,
+            "contractTypes": ["permanent"],
+            "experienceYears": 15,
+            "searchState": "openOpportunities"
+        }
+    },
+    "work": [
+        {
+            "highlights": ["Started the company"],
+            "location": "Paris, France",
+            "name": "Samsung Engineering",
+            "position": "3D Cad Engineer",
+            "startDate": "2014-01-01",
+            "summary": "Description...",
+            "website": "http://company.com"
+        },
+        {
+            "endDate": "2014-01-01",
+            "highlights": ["Started the company"],
+            "location": "Paris, France",
+            "name": "What a nice office",
+            "position": "President",
+            "startDate": "2013-01-01",
+            "summary": "Description...",
+            "website": "http://company.com"
+        },
+        {
+            "highlights": ["Started the company"],
+            "location": "Paris, France",
+            "name": "What a nice experience",
+            "position": "Lead dev",
+            "summary": "Description...",
+            "website": "http://company.com"
+        }
+    ]
+}
